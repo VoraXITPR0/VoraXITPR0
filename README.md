@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 . I’m currently working on IT and learning Cybersecutity...
 
 <!--
 **VoraXITPR0/VoraXITPR0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
